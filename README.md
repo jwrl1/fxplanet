@@ -1,4 +1,4 @@
-# fxplanet / Ligthworks FX
+# fxplanet / Lightworks FX
 
 
 ## System requirements
